@@ -28,7 +28,6 @@ completed book:
 https://www.nltk.org/book/
 https://drive.google.com/file/d/1KbnbJr-LoUNNOJApWxSzLPoXo714JNRm/view?usp=sharing
 https://drive.google.com/drive/u/2/folders/1a6MXkUvyuG2NVT4ZWtDHAMM0JGDNMW67
-https://www.researchgate.net/publication/220691633_Natural_Language_Processing_with_Python
 
 did project:
 A Benchmark Study for Sentiment Analysis of Customer Satisfaction Based on US Airline Service Twitter Data.
