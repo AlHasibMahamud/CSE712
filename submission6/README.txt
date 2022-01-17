@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=HeWmkJk3yQI
 
 completed book:
 https://www.nltk.org/book/
-https://drive.google.com/drive/u/2/folders/1CHrtWZGBUKHwiXlgzfUTKhW9xvGsJdal
+https://drive.google.com/file/d/1KbnbJr-LoUNNOJApWxSzLPoXo714JNRm/view?usp=sharing
 https://drive.google.com/drive/u/2/folders/1a6MXkUvyuG2NVT4ZWtDHAMM0JGDNMW67
 https://www.researchgate.net/publication/220691633_Natural_Language_Processing_with_Python
 
